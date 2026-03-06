@@ -67,10 +67,10 @@ sections:
 
         |                | Platos
         |---             |---
-        |   *Sopa*       |*Crema de zanahoria*
-        |  *Carne*       |*Pasta a la Boloñesa*
-        |  *Pescado*       |*Sartèn cremosa de bacalao*
-        |  *Vegetariano* |*Quiche de verduras*
+        | *Sopa*         |*Crema de zanahoria*
+        | *Carne*        |*Pasta a la Boloñesa*
+        | *Pescado*      |*Sartèn cremosa de bacalao*
+        | *Vegetariano*  |*Quiche de verduras*
         | *Postre*       |*Fruta de temporada*
         | *Bebida*       |*Agua*
 
