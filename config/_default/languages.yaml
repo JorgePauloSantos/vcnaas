@@ -35,3 +35,10 @@ es:
   languageCode: es
   title: "VCNAAS 2026 - LADO A LADO"
   weight: 1
+  
+
+fr:
+  languageCode: fr
+  title: "VCNAAS 2026 - CÔTE À CÔTE"
+  weight: 1
+  
