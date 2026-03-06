@@ -67,10 +67,10 @@ sections:
 
         |                | Plates
         |---             |---
-        |   *Soup*       |*Creme of carott*
-        |  *Meat*        |*Pasta Bolognese*
-        |  *Fish*        |*Creamy codfish skillet*
-        |  *Vegie*       |*Vegetable quiche*
+        | *Soup*         |*Creme of carott*
+        | *Meat*         |*Pasta Bolognese*
+        | *Fish*         |*Creamy codfish skillet*
+        | *Vegie*        |*Vegetable quiche*
         | *Dessert*      |*Seasonal fruit*
         | *Drink*        |*Water*
 
