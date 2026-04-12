@@ -16,7 +16,7 @@ sections:
       title: ""
       subtitle: ""
       text: |
-        ![](vcnaas2026.png)
+        ![](vcnaas2026.webp)
     design:
       columns: "1"
       background:
@@ -36,7 +36,7 @@ sections:
         
         |   |   |   |
         |---|---|---|
-        | ![](mugs.png) | ![](houdi.png) | ![](tshirt.png) |
+        | ![](mugs.webp) | ![](houdi.webp) | ![](tshirt.webp) |
     design:
       columns: "3"
       background:
